@@ -1,0 +1,6 @@
+D:\School\11_Spring_2025\PC2\Assignments\A4\Assignment4\TeamGWordle-UpToDate\TeamGWordle\x64\Debug\TeamGWordle.vcxproj.AssemblyReference.cache
+D:\School\11_Spring_2025\PC2\Assignments\A4\Assignment4\TeamGWordle-UpToDate\TeamGWordle\x64\Debug\TeamGWordle.View.MainForm.resources
+D:\School\11_Spring_2025\PC2\Assignments\A4\Assignment4\TeamGWordle-UpToDate\TeamGWordle\x64\Debug\TeamGWordle.vcxproj.GenerateResource.cache
+D:\School\11_Spring_2025\PC2\Assignments\A4\Assignment4\TeamGWordle-GUI\TeamGWordle\x64\Debug\TeamGWordle.vcxproj.AssemblyReference.cache
+D:\School\11_Spring_2025\PC2\Assignments\A4\Assignment4\TeamGWordle-GUI\TeamGWordle\x64\Debug\TeamGWordle.View.MainForm.resources
+D:\School\11_Spring_2025\PC2\Assignments\A4\Assignment4\TeamGWordle-GUI\TeamGWordle\x64\Debug\TeamGWordle.vcxproj.GenerateResource.cache
